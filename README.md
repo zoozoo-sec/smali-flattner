@@ -1,1 +1,1 @@
-smali-flattner - Read  CFO-Documentation.pdf for detailed design explanation.
+smali-flattner — read the [CFO-Documentation.pdf](./CFO-Documentation.pdf "Design explanation and architecture") for a detailed design explanation.
